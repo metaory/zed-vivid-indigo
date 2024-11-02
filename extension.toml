@@ -1,0 +1,7 @@
+id = "vivid-indigo"
+name = "Vivid Indigo Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["metaory <metaory@gmail.com>"]
+description = "A vivid purple blue theme for Zed"
+repository = "https://github.com/metaory/zed-vivid-indigo"
